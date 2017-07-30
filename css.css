@@ -65,7 +65,7 @@ body {
   border-radius: 30px;
   border: 6px solid #4f4f4f;
   left: 174px;
-  top:  174px;
+  top:  172px;
 }
 .eye2{
   width: 40px;
@@ -82,7 +82,7 @@ body {
   height:10px;
   border-radius:5px;
   left:190px;
-  top:186px;
+  top:185px;
   position:absolute;
   background-color:black;
 }
