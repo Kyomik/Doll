@@ -8,8 +8,7 @@ body {
   border-radius:150px;
   top:100px;
   position:relative;
-  background-color:#ff0080;
-  
+  background-color:#ff0080; 
 }
 .circle1{
   width:100px;
@@ -29,7 +28,6 @@ body {
   position:absolute;
   background-color:#ff0080;
 }
-
 .circle3{ 
   width:150px;
   height:150px;
@@ -55,8 +53,7 @@ body {
   top:200px;
   left:230px;
   border-radius:30px /40px;
-  background-color:#ff8000;
-  
+  background-color:#ff8000; 
 }
 .eye1{
   width: 40px;
